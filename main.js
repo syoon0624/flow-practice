@@ -1,0 +1,1 @@
+alert('Your computer has been hacked. Send me 1.0btc to this addr. or Your COMPUTER will be die soon')
